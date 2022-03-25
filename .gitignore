@@ -1,3 +1,6 @@
+# don't load my config file to the public repository
+config.js
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
